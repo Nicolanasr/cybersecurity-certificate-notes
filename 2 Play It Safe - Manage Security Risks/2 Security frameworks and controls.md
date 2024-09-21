@@ -8,7 +8,7 @@ Consists of standards, guidelines, and best practices to manage cybersecurity ri
 
 Core functions:
 
-1. Identity: Monitor systems, identify potential issues.
+1. Identify: Monitor systems, identify potential issues.
 2. Protect: Mitigating cybersecurity threats w/ tools, policies, training, etc.
 3. Detect: Detect potential incidents, improve monitoring capabilities.
 4. Respond: Actually handle an incident! And implement improvements. Document what happened, prevent it happening again.
